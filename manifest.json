@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "d638e02055c9dd5726af3044a8e57c2495c96dcf44013528d636f51921acf6fd",
+		"module.json": "24f7a61ccc7c4136419d1a31e286dd09c37a4013f693b260f7588c090410d2a3"
+	},
+	"defs": {
+		"S_CHAT": 2
+	}
+}
